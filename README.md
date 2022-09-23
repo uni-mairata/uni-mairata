@@ -1,6 +1,6 @@
 - 🌱 Hello! I'm Maika Hirata
 
-[My portfolio website](TODO: add later)
+[My portfolio website](https://www.linkedin.com/in/maika-hirata-uni-mairata/)
 
 - senior in high school
 - programming lead on FRC Team 1261 Robo Lions
