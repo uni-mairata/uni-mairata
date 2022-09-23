@@ -1,11 +1,19 @@
 - 🌱 Hello! I'm Maika Hirata
+
+[My portfolio website](TODO: add later)
+
 - senior in high school
 - programming lead on FRC Team 1261 Robo Lions
-- I’m interested in ...
+
+- I’m interested in applying computer science to
+  - art
+  - environmental science
+  - mental health
 
 -  I’m currently learning ...
-- I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- 📫 Contacts ...
+  - [LinkedIn](TODO: add later)
 
 <!---
 uni-mairata/uni-mairata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
