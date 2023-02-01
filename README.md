@@ -1,8 +1,9 @@
-### || Maika Hirata || 18 || JP:jp:/ENG:us: ||
+### || Maika Hirata || 18 || JP :jp: / ENG :us: ||
 
 <!---
 🌱 [My portfolio website](https://uni-mairata.github.io/)
 --->
+![mini_star_bullet__4__by_usagipinku_d7l41mg](https://user-images.githubusercontent.com/57153217/216064225-d4f56df8-4807-42b0-bbe7-c330b460bbd3.png)![mini_star_bullet__2__by_usagipinku_d7l41h4](https://user-images.githubusercontent.com/57153217/216064221-68a58ecb-8a29-44c3-be39-98db2b7c433b.png)![mini_star_bullet__3__by_usagipinku_d7l41kj](https://user-images.githubusercontent.com/57153217/216064223-65cf8dc1-0157-4246-a3a4-07262559f9a4.png)![mini_star_bullet__4__by_usagipinku_d7l41mg](https://user-images.githubusercontent.com/57153217/216064225-d4f56df8-4807-42b0-bbe7-c330b460bbd3.png)![mini_star_bullet__2__by_usagipinku_d7l41h4](https://user-images.githubusercontent.com/57153217/216064221-68a58ecb-8a29-44c3-be39-98db2b7c433b.png)![mini_star_bullet__3__by_usagipinku_d7l41kj](https://user-images.githubusercontent.com/57153217/216064223-65cf8dc1-0157-4246-a3a4-07262559f9a4.png)![mini_stars_divider__2__by_usagipinku_d7l42dw](https://user-images.githubusercontent.com/57153217/216063563-adcb3a68-b2a0-48d0-9ee1-859e8b19ef3e.png)![mini_stars_divider__2__by_usagipinku_d7l42dw](https://user-images.githubusercontent.com/57153217/216063563-adcb3a68-b2a0-48d0-9ee1-859e8b19ef3e.png)![mini_stars_divider__2__by_usagipinku_d7l42dw](https://user-images.githubusercontent.com/57153217/216063563-adcb3a68-b2a0-48d0-9ee1-859e8b19ef3e.png)![mini_stars_divider__2__by_usagipinku_d7l42dw](https://user-images.githubusercontent.com/57153217/216063563-adcb3a68-b2a0-48d0-9ee1-859e8b19ef3e.png)![mini_star_bullet__2__by_usagipinku_d7l41h4](https://user-images.githubusercontent.com/57153217/216064221-68a58ecb-8a29-44c3-be39-98db2b7c433b.png)
 
 - high school senior
 - programming lead of FRC Team 1261 [Robo Lions](https://github.com/RoboLions)
@@ -18,6 +19,10 @@
 
 - 📫 Contacts ...
   - [LinkedIn](https://www.linkedin.com/in/maika-hirata-uni-mairata/)
+
+<!---
+![mafumafu-peek](https://user-images.githubusercontent.com/57153217/216062125-f6ec53b8-3e78-46b6-8551-3c1354b73e08.gif)
+--->
 
 <!---
 uni-mairata/uni-mairata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
