@@ -6,9 +6,9 @@
 
 ![mini_star_bullet__4__by_usagipinku_d7l41mg](https://user-images.githubusercontent.com/57153217/216064225-d4f56df8-4807-42b0-bbe7-c330b460bbd3.png)![mini_star_bullet__2__by_usagipinku_d7l41h4](https://user-images.githubusercontent.com/57153217/216064221-68a58ecb-8a29-44c3-be39-98db2b7c433b.png)![mini_star_bullet__3__by_usagipinku_d7l41kj](https://user-images.githubusercontent.com/57153217/216064223-65cf8dc1-0157-4246-a3a4-07262559f9a4.png)![mini_star_bullet__4__by_usagipinku_d7l41mg](https://user-images.githubusercontent.com/57153217/216064225-d4f56df8-4807-42b0-bbe7-c330b460bbd3.png)![mini_star_bullet__2__by_usagipinku_d7l41h4](https://user-images.githubusercontent.com/57153217/216064221-68a58ecb-8a29-44c3-be39-98db2b7c433b.png)![mini_star_bullet__3__by_usagipinku_d7l41kj](https://user-images.githubusercontent.com/57153217/216064223-65cf8dc1-0157-4246-a3a4-07262559f9a4.png)![mini_stars_divider__2__by_usagipinku_d7l42dw](https://user-images.githubusercontent.com/57153217/216063563-adcb3a68-b2a0-48d0-9ee1-859e8b19ef3e.png)![mini_stars_divider__2__by_usagipinku_d7l42dw](https://user-images.githubusercontent.com/57153217/216063563-adcb3a68-b2a0-48d0-9ee1-859e8b19ef3e.png)![mini_stars_divider__2__by_usagipinku_d7l42dw](https://user-images.githubusercontent.com/57153217/216063563-adcb3a68-b2a0-48d0-9ee1-859e8b19ef3e.png)![mini_stars_divider__2__by_usagipinku_d7l42dw](https://user-images.githubusercontent.com/57153217/216063563-adcb3a68-b2a0-48d0-9ee1-859e8b19ef3e.png)
 
-- high school senior
+- high school senior ![brown_bow_bullet_by_usagipinku_d7kgq0a](https://user-images.githubusercontent.com/57153217/216066140-e8782c36-aa24-4e27-9eb2-3da7032d5566.png)
 - programming lead of FRC Team 1261 [Robo Lions](https://github.com/RoboLions)
-- proficient in Java, HTML, CSS, JS
+- proficient in Java, HTML, CSS, JS ![mini_teacup_bullet__1__by_usagipinku_d7lhzrm](https://user-images.githubusercontent.com/57153217/216066278-bd80e149-3b96-4457-a46c-3a2b92f23142.png)
 - interested in applying computer science to:
   - art
   - environmental science
