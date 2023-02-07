@@ -1,4 +1,4 @@
-## || Maika Hirata || 18 || JP :jp: / ENG :us: ||
+## || Maika Hirata || 18 || :jp: / :us: ||
 
 <!---
 ### 🌱 [My portfolio website](https://uni-mairata.github.io/) ![free_icon__cat_by_onedayfour_d4upepx](https://user-images.githubusercontent.com/57153217/216064844-2a26424b-6e37-402f-aaaa-58ef41a79eef.gif)
