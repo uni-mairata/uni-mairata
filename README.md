@@ -14,11 +14,11 @@
 
 [![simple-pink-divider](https://user-images.githubusercontent.com/57153217/217716093-f8481359-c8fc-4385-a0d6-efffa12ae1f7.png)](https://www.deviantart.com/seii-a/art/Simple-Pink-Divider-468199186)
 
-[![currently-working-on](https://user-images.githubusercontent.com/57153217/217713639-864e706b-6434-4814-b198-2bde707395e4.png)](https://www.deviantart.com/dri-bee/art/Currently-470892717)
+<!-- [![currently-working-on](https://user-images.githubusercontent.com/57153217/217713639-864e706b-6434-4814-b198-2bde707395e4.png)](https://www.deviantart.com/dri-bee/art/Currently-470892717)
 
 * [![bullet-clock](https://user-images.githubusercontent.com/57153217/217714478-7ca2a08e-559a-4596-a1cf-27a3f89c2740.gif)](https://www.deviantart.com/cutiechoco/art/Bullet-Clock-ANIMATED-427125692) [2023 FRC code](https://github.com/RoboLions/State-Machine)
 
-[![simple-pink-divider](https://user-images.githubusercontent.com/57153217/217716093-f8481359-c8fc-4385-a0d6-efffa12ae1f7.png)](https://www.deviantart.com/seii-a/art/Simple-Pink-Divider-468199186)
+[![simple-pink-divider](https://user-images.githubusercontent.com/57153217/217716093-f8481359-c8fc-4385-a0d6-efffa12ae1f7.png)](https://www.deviantart.com/seii-a/art/Simple-Pink-Divider-468199186) -->
 
 [![personal-projects](https://user-images.githubusercontent.com/57153217/217712398-63697182-c722-44bf-b3e7-cc51b8529357.png)](https://www.deviantart.com/dri-bee/art/Personal-Projects-470892710)
 
