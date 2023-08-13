@@ -8,8 +8,7 @@
 
 [![mini_stars_divider__2__by_usagipinku_d7l42dw](https://user-images.githubusercontent.com/57153217/216063563-adcb3a68-b2a0-48d0-9ee1-859e8b19ef3e.png)![mini_stars_divider__2__by_usagipinku_d7l42dw](https://user-images.githubusercontent.com/57153217/216063563-adcb3a68-b2a0-48d0-9ee1-859e8b19ef3e.png)![mini_stars_divider__2__by_usagipinku_d7l42dw](https://user-images.githubusercontent.com/57153217/216063563-adcb3a68-b2a0-48d0-9ee1-859e8b19ef3e.png)![mini_stars_divider__2__by_usagipinku_d7l42dw](https://user-images.githubusercontent.com/57153217/216063563-adcb3a68-b2a0-48d0-9ee1-859e8b19ef3e.png)![mini_stars_divider__2__by_usagipinku_d7l42dw](https://user-images.githubusercontent.com/57153217/216063563-adcb3a68-b2a0-48d0-9ee1-859e8b19ef3e.png)](https://www.deviantart.com/usagipinku/art/Mini-Stars-Divider-2-458724884)
 
-- high school senior ![brown_bow_bullet_by_usagipinku_d7kgq0a](https://user-images.githubusercontent.com/57153217/216066140-e8782c36-aa24-4e27-9eb2-3da7032d5566.png)
-- programming lead of FRC Team 1261 [Robo Lions](https://github.com/RoboLions)
+- student pursuing Computer Systems Engineering at the University of Georgia ![brown_bow_bullet_by_usagipinku_d7kgq0a](https://user-images.githubusercontent.com/57153217/216066140-e8782c36-aa24-4e27-9eb2-3da7032d5566.png)
 - Java, HTML, CSS, JS [![mini_teacup_bullet__1__by_usagipinku_d7lhzrm](https://user-images.githubusercontent.com/57153217/216066278-bd80e149-3b96-4457-a46c-3a2b92f23142.png)](https://www.deviantart.com/usagipinku/art/Mini-Teacup-Bullet-1-459374674)
 
 [![simple-pink-divider](https://user-images.githubusercontent.com/57153217/217716093-f8481359-c8fc-4385-a0d6-efffa12ae1f7.png)](https://www.deviantart.com/seii-a/art/Simple-Pink-Divider-468199186)
