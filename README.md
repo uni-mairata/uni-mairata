@@ -44,3 +44,20 @@
 uni-mairata/uni-mairata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!---
+Things to replace with:
+https://d2bzx2vuetkzse.cloudfront.net/unshoppable_producs/e4f890df-449e-4a0e-85c9-dfd72da85679.png
+https://d2bzx2vuetkzse.cloudfront.net/fit-in/0x450/unshoppable_producs/0050698e-6fcb-4c61-8061-e2ee3a69fb6c.png
+https://d2bzx2vuetkzse.cloudfront.net/unshoppable_producs/f7849c89-56f0-4b06-8a4f-72833f484ae8.png
+https://64.media.tumblr.com/271c70a670c620997d406828a9898db8/c7f0128556a1eaee-1b/s500x750/2f9d538a7e2c5bd90b9ac9dbd794fcea58b28f08.png
+https://i.pinimg.com/originals/24/1a/b8/241ab83de0bdf59b5355732df89dba03.jpg
+https://i.pinimg.com/236x/75/29/d9/7529d95b94eb187696bee8417dadfe69.jpg
+https://64.media.tumblr.com/64b413b9df43e9f7e2c5d60335252884/c7f0128556a1eaee-a6/s1280x1920/6c5239aa86b8ffd1d168399d33e7d2b7ac988cf8.png
+https://64.media.tumblr.com/3b676ae24b3df8c5084342192d464f32/c7f0128556a1eaee-81/s1280x1920/6fd691f8a66ed561f0d0620b29469ae285d0b9d6.png
+https://64.media.tumblr.com/71d877ee301305ebee6d81db66f7ca62/c7f0128556a1eaee-97/s1280x1920/3771cf21b4c45a0cc89677df310bf86392252a2f.png
+https://64.media.tumblr.com/877626727972ee9fbe6e003a90bc806a/c7f0128556a1eaee-28/s1280x1920/14915d732e6df5f03eb1a2b93aa357288617b267.png
+
+
+https://solarispngs.tumblr.com/
+--->
