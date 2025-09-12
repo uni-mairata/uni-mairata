@@ -27,4 +27,6 @@
 
 > ![E-Mail](https://github.com/user-attachments/assets/acea48bc-7482-499d-a543-576e97821d7e) [maikahirata.mh@gmail.com](mailto:maikahirata.mh@gmail.com)
 
+<!--
 [![cream-heroes](https://user-images.githubusercontent.com/57153217/217715580-2f05da25-c592-4c51-8ae3-69fe74070231.gif)](https://www.deviantart.com/burucheri/art/F2U-Cream-Heroes-762328084)
+-->
