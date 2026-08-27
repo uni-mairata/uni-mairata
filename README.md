@@ -8,7 +8,7 @@
 
 [![mini_stars_divider__2__by_usagipinku_d7l42dw](https://user-images.githubusercontent.com/57153217/216063563-adcb3a68-b2a0-48d0-9ee1-859e8b19ef3e.png)![mini_stars_divider__2__by_usagipinku_d7l42dw](https://user-images.githubusercontent.com/57153217/216063563-adcb3a68-b2a0-48d0-9ee1-859e8b19ef3e.png)![mini_stars_divider__2__by_usagipinku_d7l42dw](https://user-images.githubusercontent.com/57153217/216063563-adcb3a68-b2a0-48d0-9ee1-859e8b19ef3e.png)![mini_stars_divider__2__by_usagipinku_d7l42dw](https://user-images.githubusercontent.com/57153217/216063563-adcb3a68-b2a0-48d0-9ee1-859e8b19ef3e.png)![mini_stars_divider__2__by_usagipinku_d7l42dw](https://user-images.githubusercontent.com/57153217/216063563-adcb3a68-b2a0-48d0-9ee1-859e8b19ef3e.png)](https://www.deviantart.com/usagipinku/art/Mini-Stars-Divider-2-458724884)
 
-- Third-year student pursuing a bachelor's in Computer Engineering with a focus in Software Design and Robotics at the Georgia Tech, graduating in May 2027
+- Fourth-year student pursuing a bachelor's in Computer Engineering with a focus in Software Design and Robotics at the Georgia Tech, graduating in May 2027
 - Java, Python, MATLAB, C, MIPS Assembly, JavaScript, CSS, HTML
 
 <!--
